@@ -1,7 +1,7 @@
 {
   "hostTag": "$HOST",
   "fileResolutionTag": "$RESOLUTION",
-  "localHost": "http://127.0.0.1:8081/bandersnatch/index.html",
+  "localHost": "http://127.0.0.1:8081",
   "productionHost": "",
   "codec": "video/mp4; codecs=\"avc1.64001F,mp4a.40.2\"",
   "intro": {
@@ -9,7 +9,7 @@
     "at": 10,
     "options": [
       "Guitarra",
-      "Violão"
+      "Violao"
     ],
     "defaultOption": "Guitarra"
   },
@@ -18,7 +18,7 @@
     "at": 18,
     "options": [
       "Finalizar",
-      "Violão"
+      "Violao"
     ],
     "defaultOption": "Finalizar"
   },
